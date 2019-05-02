@@ -2,8 +2,8 @@
 A Collection of Internationally Accepted Material for Academics
 
 todo:
-- disqus
-- counter
-- contributor
-- analytics
-- forum
+- [x] disqus
+- [ ] counter
+- [x] contributor
+- [x] analytics
+- [ ] forum
